@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Saper", "03_Saper\03_Saper.csproj", "{C3E833E0-DD4C-4395-811A-33F80E6540D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E833E0-DD4C-4395-811A-33F80E6540D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E833E0-DD4C-4395-811A-33F80E6540D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E833E0-DD4C-4395-811A-33F80E6540D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E833E0-DD4C-4395-811A-33F80E6540D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142AB5AD-B331-4CF2-8106-731C2B24F47B}
+	EndGlobalSection
+EndGlobal
