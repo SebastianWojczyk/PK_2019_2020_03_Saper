@@ -58,7 +58,7 @@ namespace _03_Saper
                 }
             }
         }
-        //obsługa kliknięcia na buttony podczas gry
+        //obsługa kliknięcia na buttony podczas gry w sapera
         private void button_Click(object sender, EventArgs e)
         {
             if (myGame.State == SapperLogic.GameState.InProgress)
